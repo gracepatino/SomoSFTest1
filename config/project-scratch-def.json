@@ -1,0 +1,15 @@
+{
+  "orgName": "SomoTest",
+  "edition": "Developer",
+  "settings": {
+    "orgPreferenceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
